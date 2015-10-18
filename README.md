@@ -24,8 +24,8 @@ Assets
 * **index.html**: The page to display the newsreader
 
 
-How to run the web pages
-========================
+How to run the web page
+=======================
 
 1. Download my git repository (see link above) as a zip file and unzip it
 
